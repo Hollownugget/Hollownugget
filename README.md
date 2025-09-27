@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Hollownugget
-- 👀 I’m interested in games like hollow knight
-- 🌱 I’m currently learning how to mod
+- 👋 Hi, I’m @HollowNugget
+- 👀 I’m interested in games like Hollow Knight, Silksong, and Python
+- 🌱 I’m currently learning how to make Prankware and use Python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am not stupid
+- ⚡ Fun fact: I am terminally online
 
 <!---
 Hollownugget/Hollownugget is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
