@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HollowNugget
 - 👀 I’m interested in games like Hollow Knight, Silksong, and Python
-- 🌱 I’m currently learning how to make Prankware and use Python
+- 🌱 I’m currently learning how to fiddle fart with coding
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: I dunno, how?
 - 😄 Pronouns: he/him
